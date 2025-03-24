@@ -1,1 +1,1 @@
-# digital-showcase-2025
+# Digital Showcase 2025
