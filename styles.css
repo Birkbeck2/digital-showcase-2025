@@ -114,7 +114,7 @@ footer p{
 
 @media screen and (max-width: 600px){
   main h1{
-    font-size: 2.35em;
+    font-size: 2.5em;
   }
   .projects .item{
     min-width:90%;
